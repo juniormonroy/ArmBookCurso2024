@@ -2,3 +2,4 @@ mbed-os/**
 BUILD/**
 .mbed
 Root bin.jpg
+settings.json
